@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm To Thai Son (yebpls)</h1>
 <h3 align="center">A Front-End Developer</h3>
 
-- 🔭 I’m worked on [Birdy-project (just in dev-branch)](https://github.com/blvm159263/birdy-fe/tree/dev)
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **ReactJS**
