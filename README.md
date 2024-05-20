@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm To Thai Son (yebpls)</h1>
-<h3 align="center">A Front-End Developer</h3>
+<h3 align="center">A Front-End Developer (Also can develop Back-End API with JAVA SpringBoot and NodeJS)</h3>
 
 - 🌱 I’m currently learning **ReactTS, NodeTS and NextTS**
 
