@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm To Thai Son (yebpls)</h1>
 <h3 align="center">A Front-End Developer</h3>
 
-- 🌱 I’m currently learning **ReactJS**
-
-- 💬 Ask me about **ReactJS**
+- 🌱 I’m currently learning **ReactTS, NodeTS and NextTS**
 
 - 📫 How to reach me **jsoibn@gmail.com**
 
