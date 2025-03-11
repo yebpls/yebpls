@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/to-thai-son-788b27284](https://www.linkedin.com/in/to-thai-son-788b27284)
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ My CV: [https://drive.google.com/file/d/1bE7R1_cx27dyW6eEAAQMt-i5No9SM9y7/view?usp=sharing](https://drive.google.com/file/d/1bE7R1_cx27dyW6eEAAQMt-i5No9SM9y7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
